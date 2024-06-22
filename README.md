@@ -21,22 +21,22 @@ This repository contains a Java implementation of the [Huffman coding algorithm 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MatiasCarabella/huffman-encoding.git
+    git clone https://github.com/MatiasCarabella/huffman-coding.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd huffman-encoding
+    cd huffman-coding
     ```
 
 ### Usage
 
 1. Compile the Java program:
-    ```bash
-    javac huffman-encoding.java
+    ```
+    javac HuffmanCoding.java
     ```
 2. Run the program:
-    ```bash
-    java huffman-encoding
+    ```
+    java HuffmanCoding
     ```
 3. Enter the text you wish to compress when prompted.
 
