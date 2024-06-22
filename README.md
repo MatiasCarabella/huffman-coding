@@ -1,8 +1,6 @@
-# Huffman encoding algorithm implementation
+# Huffman Coding algorithm implementation
 
-## About
-
-This repository contains a Java implementation of the Huffman coding algorithm for data compression. The program reads a variable-length text input from the console, constructs a Huffman tree, and outputs the encoded text along with the original message. This project demonstrates an efficient method for lossless data compression.
+This repository contains a Java implementation of the [Huffman coding algorithm for data compression](https://en.wikipedia.org/wiki/Huffman_coding). The program reads a variable-length text input from the console, constructs a Huffman tree, and outputs the encoded text along with the original message. This project demonstrates an efficient method for lossless data compression.
 
 ## Features
 
